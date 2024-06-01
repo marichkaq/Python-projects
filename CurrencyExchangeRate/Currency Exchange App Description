@@ -1,0 +1,22 @@
+Currency Exchange Rate Viewer
+Description:
+This project uses the National Bank of Poland (NBP) API to provide currency exchange rate information and visualize historical data.
+
+Features:
+
+Fetch current exchange rate for a given currency.
+Retrieve and plot historical exchange rate data for a given currency.
+Display exchange rates using Matplotlib.
+
+Technologies Used:
+
+Requests library for API calls
+Matplotlib for data visualization
+
+Setup Instructions:
+
+1. Install the required packages in bash:
+pip install -r requirements.txt
+
+2. Run the project:
+python currency_exchange.py
