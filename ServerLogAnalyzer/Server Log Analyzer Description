@@ -1,0 +1,15 @@
+Server Log Analysis
+Description:
+This project processes a server log file to filter and analyze logs based on specified conditions, such as IP range, HTTP methods, and response times.
+
+Features:
+
+Filter logs using a generator based on IP range, HTTP methods, and minimum response time.
+Analyze logs to provide statistics such as:
+  Number of unique IP addresses.
+  Number of requests for each HTTP method (GET, POST, etc.).
+  Average server response time.
+
+Setup Instructions:
+
+Ensure the log file server_logs.csv is in the same directory.
