@@ -1,0 +1,8 @@
+Execution Time Decorator
+Description:
+This project implements a decorator to measure and print the execution time of any function. It helps in analyzing the performance of functions.
+
+Features:
+
+time_execution decorator to measure function execution time.
+Example functions and tests included.
