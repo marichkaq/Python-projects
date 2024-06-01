@@ -1,0 +1,31 @@
+CTF Challenge: Extract the Flag
+Description:
+This Python script is designed to solve a Capture The Flag (CTF) challenge by extracting text from an image file. 
+The script processes the image to enhance its readability and uses Optical Character Recognition (OCR) to extract the flag.
+
+Instructions:
+
+Input: The provided image file flag1.jpg.
+Output: The extracted flag in the format ctf{flag_name}.
+
+Technologies Used:
+
+PIL (Pillow) for image processing
+pytesseract for OCR
+
+Features:
+
+Convert the image to grayscale.
+Enhance the contrast of the image.
+Sharpen the image to improve OCR accuracy.
+Extract text from the image using pytesseract.
+
+Setup Instructions:
+
+1. Ensure you have the required packages installed:
+bash:
+  pip install pytesseract Pillow
+2. Place the image file flag1.jpg in the same directory as the script.
+3. Run the script:
+bash:
+  python CTF#1.py
