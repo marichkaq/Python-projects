@@ -1,0 +1,9 @@
+IP and Domain Analyzer
+
+This Python project analyzes IP addresses and domains from a file (ip.txt). It validates and categorizes the IP addresses, providing the following functionalities:
+
+* Load and Process File: Reads IP addresses and domain names from ip.txt, handling various delimiters (comma, tab, space).
+* Validate and Categorize IPs: Distinguishes between valid public and private IP addresses.
+* Display Valid IPs: Shows valid IP addresses along with their domain names, separated into public and private categories.
+* Display Unique Domains: Lists all unique domain names found.
+* Display Unique IPs: Lists all unique valid IP addresses, both public and private.

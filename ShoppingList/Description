@@ -1,0 +1,11 @@
+Shopping List Manager
+
+This Python project is a simple Shopping List Manager. It allows users to manage a shopping list with basic functionalities:
+
+* Load List from File: Automatically loads items and their quantities from list.txt. If the file doesn't exist, it creates one.
+* Add Product: Add new items with quantities or update quantities of existing items.
+* Remove Product: Decrease the quantity or remove items from the list by name.
+* Display List: Show all items and their quantities.
+* Save List to File: Save the current shopping list back to list.txt.
+
+Includes error handling and user input validation for a smooth experience.
