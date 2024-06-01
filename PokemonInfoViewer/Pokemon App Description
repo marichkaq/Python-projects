@@ -1,0 +1,19 @@
+Pokémon Information Viewer
+Description:
+This project uses the Pokémon API to fetch and display various information about Pokémon, their types, and abilities.
+
+Features:
+
+Get detailed information about a specific Pokémon.
+List all Pokémon types.
+Fetch information about a specific Pokémon type.
+List all Pokémon abilities.
+Fetch information about a specific Pokémon ability.
+
+Setup Instructions:
+
+1. Install the required packages in bash:
+pip install -r requirements.txt
+
+2. Run the project:
+python currency_exchange.py
