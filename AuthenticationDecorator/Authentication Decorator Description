@@ -1,0 +1,9 @@
+Authentication Decorator
+Description:
+This project implements an authentication decorator that checks if a user is authenticated before allowing access to certain functions. It also includes functionality to add or update users.
+
+Features:
+
+require_auth decorator to enforce authentication.
+Function to add or update user credentials.
+Example usage and tests included.
